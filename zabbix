@@ -1,0 +1,14 @@
+#ZABBIX TEMPLATES
+A collection of NTTCA monitoring system Zabbix templates.
+
+##Templates
+[ZBX-CISCO] => templates to discover and manage capabilities on Cisco devices.
+[ZBX-FORTINET] => template to discover and manage capabilities on Fortinet devices.
+[ZBX-WINDOWS] => template to discover and manage capabilities on Windows server.
+[ZBX-VEEAM] => template to discover and manage VEEAM Backup & Replication jobs.
+[ZBX-VMWARE] => template to manage VMware vCenter (both vCSA and Windows server)
+##Requirements
+All this templates were tested for Zabbix 2.0.13 and higher.
+
+##License
+This template were distributed under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
